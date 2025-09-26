@@ -97,7 +97,7 @@
         android:layout_height="wrap_content"
         android:text="@string/link_sign_in"
         android:textColor="@color/design_default_color_primary"
-        android:padding="10dp"
+        android:padding="12dp"
         android:clickable="true"
         android:focusable="true"
         android:minHeight="48dp"
