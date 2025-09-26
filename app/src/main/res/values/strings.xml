@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="welcome_title">Welcome Back!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button_sign_in">SIGN IN</string>
+    <string name="link_create_account">Don\'t have an account? Create Account</string>
+    <string name="content_desc_logo">Login App Logo</string>
+
+    <string name="register_title">Create Account</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="button_create_account">CREATE ACCOUNT</string>
+    <string name="link_sign_in">Already have an account? Sign In</string>
+
+    <string name="msg_signing_in">Đang đăng nhập...</string>
+    <string name="msg_fill_all_fields">Vui lòng điền đầy đủ thông tin!</string>
+    <string name="msg_password_length">Mật khẩu phải có ít nhất 6 ký tự.</string>
+    <string name="msg_registration_success">Đăng ký thành công cho %1$s</string>
+
+</resources>
